@@ -260,6 +260,7 @@ Add **Open Source Society University** to your [Linkedin](https://www.linkedin.c
 
 * **Curriculum Founder**: [Enes Kemal Ergin](https://github.com/eneskemalergin)
 * **Curriculum Maintainer**: [Enes Kemal Ergin](https://github.com/eneskemalergin)
+* **Contributor**: [Engr. Md Shagor](https://github.com/mdshagor369)
 * **Contributors**: [contributors](https://github.com/open-source-society/bioinformatics/graphs/contributors)
 
 ## References
